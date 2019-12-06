@@ -1,1 +1,2 @@
-<p>this is a conflict example</p>
+<p> this is a paragraph</p>
+<h1>Header </h>
